@@ -1,0 +1,12 @@
+body{margin:0}
+.pg{font-family:ui-rounded,'Nunito','Segoe UI',system-ui,-apple-system,sans-serif;color:#24406E;background:#FBF6EA;line-height:1.55;overflow:hidden}
+.hd{font-family:ui-rounded,'Fredoka','Arial Rounded MT Bold','Trebuchet MS',system-ui,sans-serif;margin:0;line-height:1.1;font-weight:600}
+.wrap{max-width:1160px;margin:0 auto;padding:0 24px;box-sizing:border-box}
+.btn{display:inline-block;padding:14px 28px;border-radius:999px;font-weight:700;text-decoration:none;min-height:44px;box-sizing:border-box}
+.card{background:#fff;border-radius:32px;padding:32px;box-shadow:0 8px 24px rgba(36,64,110,.08)}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:28px}
+.sec{padding:72px 0}
+.tag{display:inline-block;padding:5px 14px;border-radius:999px;font-size:14px;font-weight:700}
+a{color:#24406E}a:hover{color:#2F7DB8}
+
+img{max-width:100%;height:auto}
